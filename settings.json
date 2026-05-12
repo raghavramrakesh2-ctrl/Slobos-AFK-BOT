@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Rcmonster9999.aternos.me",
+    "ip": "Rcmonster9999.aternos.me:17765",
     "port": 17765,
     "version": "1.21.1"
   },
